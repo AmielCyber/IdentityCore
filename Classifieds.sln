@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifieds.Web", "Classifieds.Web\Classifieds.Web.csproj", "{BB6B6AC7-C5C6-46BC-8FD7-332CE984A47C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifieds.Data", "Classifieds.Data\Classifieds.Data.csproj", "{E8447296-5973-4372-AE3A-20A47BD4A1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6B6AC7-C5C6-46BC-8FD7-332CE984A47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6B6AC7-C5C6-46BC-8FD7-332CE984A47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6B6AC7-C5C6-46BC-8FD7-332CE984A47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6B6AC7-C5C6-46BC-8FD7-332CE984A47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8447296-5973-4372-AE3A-20A47BD4A1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8447296-5973-4372-AE3A-20A47BD4A1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8447296-5973-4372-AE3A-20A47BD4A1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8447296-5973-4372-AE3A-20A47BD4A1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
